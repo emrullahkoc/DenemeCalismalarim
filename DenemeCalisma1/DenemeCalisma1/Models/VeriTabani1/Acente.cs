@@ -11,10 +11,5 @@ namespace DenemeCalisma1.Models.VeriTabani1
         public string VeriTabaniLogin { get; set; }
         public string VeriTabaniSifre { get; set; }
 
-        public int? SehirlerID { get; set; }
-        public Sehir Sehir { get; set; }
-
-        public int? IlcelerID { get; set; }
-        public Ilce Ilce { get; set; }
     }
 }

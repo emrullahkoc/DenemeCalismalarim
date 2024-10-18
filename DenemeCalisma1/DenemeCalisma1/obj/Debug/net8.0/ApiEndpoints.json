@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "DenemeCalisma1.Controllers.AcenteController",
+    "Method": "GetAcenteler",
+    "RelativePath": "api/Acente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DenemeCalisma1.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DenemeCalisma1.Controllers.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DenemeCalisma1.Controllers.KullaniciController",
+    "Method": "GetKullanicilar",
+    "RelativePath": "api/Kullanici",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

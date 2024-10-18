@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\controllers\\acentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\controllers\\acentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\models\\veritabani2\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\models\\veritabani2\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\models\\veritaban\u01313\\ttcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\models\\veritaban\u01313\\ttcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\models\\veritabani2\\mtlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\models\\veritabani2\\mtlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\data\\dynamicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\data\\dynamicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\data\\firstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\data\\firstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|c:\\users\\emrullahkoc\\desktop\\kendicalismadenemelerim\\denemecalismalarim\\denemecalisma1\\denemecalisma1\\data\\seconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA408B75-0FE4-4060-86E5-6FA22D8E1BF5}|DenemeCalisma1\\DenemeCalisma1.csproj|solutionrelative:denemecalisma1\\data\\seconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\appsettings.json",
-              "RelativeDocumentMoniker": "DenemeCalisma1\\appsettings.json",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\appsettings.json",
-              "RelativeToolTip": "DenemeCalisma1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-17T23:41:09.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SecondDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Data\\SecondDbContext.cs",
-              "RelativeDocumentMoniker": "DenemeCalisma1\\Data\\SecondDbContext.cs",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Data\\SecondDbContext.cs",
-              "RelativeToolTip": "DenemeCalisma1\\Data\\SecondDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "DenemeCalisma1\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:40:33.76Z",
+              "WhenOpened": "2024-10-18T10:07:17.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DynamicDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Data\\DynamicDbContext.cs",
-              "RelativeDocumentMoniker": "DenemeCalisma1\\Data\\DynamicDbContext.cs",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Data\\DynamicDbContext.cs",
-              "RelativeToolTip": "DenemeCalisma1\\Data\\DynamicDbContext.cs",
+              "Title": "AcenteController.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Controllers\\AcenteController.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Controllers\\AcenteController.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Controllers\\AcenteController.cs",
+              "RelativeToolTip": "DenemeCalisma1\\Controllers\\AcenteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:06:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MtlContext.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Models\\VeriTabani2\\MtlContext.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Models\\VeriTabani2\\MtlContext.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Models\\VeriTabani2\\MtlContext.cs",
+              "RelativeToolTip": "DenemeCalisma1\\Models\\VeriTabani2\\MtlContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:38:17.553Z",
+              "WhenOpened": "2024-10-18T10:05:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Models\\VeriTabani2\\Kullanici.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Models\\VeriTabani2\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Models\\VeriTabani2\\Kullanici.cs",
+              "RelativeToolTip": "DenemeCalisma1\\Models\\VeriTabani2\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:04:40.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FirstDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Data\\FirstDbContext.cs",
-              "RelativeDocumentMoniker": "DenemeCalisma1\\Data\\FirstDbContext.cs",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Data\\FirstDbContext.cs",
-              "RelativeToolTip": "DenemeCalisma1\\Data\\FirstDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAtAAAAAAAAAA==",
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Controllers\\KullaniciController.cs*",
+              "RelativeToolTip": "DenemeCalisma1\\Controllers\\KullaniciController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:37:56.857Z",
+              "WhenOpened": "2024-10-18T10:03:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TtContext.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Models\\VeriTaban\u01313\\TtContext.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Models\\VeriTaban\u01313\\TtContext.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Models\\VeriTaban\u01313\\TtContext.cs",
+              "RelativeToolTip": "DenemeCalisma1\\Models\\VeriTaban\u01313\\TtContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:25:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Program.cs",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\Program.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\Program.cs",
+              "RelativeToolTip": "DenemeCalisma1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:16:13.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\appsettings.json",
+              "RelativeDocumentMoniker": "DenemeCalisma1\\appsettings.json",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\KendiCalismaDenemelerim\\DenemeCalismalarim\\DenemeCalisma1\\DenemeCalisma1\\appsettings.json",
+              "RelativeToolTip": "DenemeCalisma1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T09:16:05.5Z",
               "EditorCaption": ""
             }
           ]

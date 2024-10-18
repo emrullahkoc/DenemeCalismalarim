@@ -140,3 +140,4 @@ C:\Users\emrullahkoc\Desktop\KendiCalismaDenemelerim\DenemeCalismalarim\DenemeCa
 C:\Users\emrullahkoc\Desktop\KendiCalismaDenemelerim\DenemeCalismalarim\DenemeCalisma1\DenemeCalisma1\obj\Debug\net8.0\DenemeCalisma1.pdb
 C:\Users\emrullahkoc\Desktop\KendiCalismaDenemelerim\DenemeCalismalarim\DenemeCalisma1\DenemeCalisma1\obj\Debug\net8.0\DenemeCalisma1.genruntimeconfig.cache
 C:\Users\emrullahkoc\Desktop\KendiCalismaDenemelerim\DenemeCalismalarim\DenemeCalisma1\DenemeCalisma1\obj\Debug\net8.0\ref\DenemeCalisma1.dll
+C:\Users\emrullahkoc\Desktop\KendiCalismaDenemelerim\DenemeCalismalarim\DenemeCalisma1\DenemeCalisma1\obj\Debug\net8.0\DenemeCalisma1.sourcelink.json
